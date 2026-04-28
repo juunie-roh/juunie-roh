@@ -4,4 +4,4 @@ I'm Juun, a **technology-agnostic developer** who thinks deeply about architectu
 
 ## What I Do
 
-I build things by asking "why" before "how" — experimenting in controlled environments, measuring impact, and applying learnings professionally.
+I solve problems by starting from the person experiencing them. Before I touch the technical side, I reconstruct why something is a problem for them, what success looks like from their position, and what we're actually trying to achieve. Then I work backward to a solution.

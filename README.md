@@ -4,4 +4,6 @@ I'm Juun, a **technology-agnostic developer** who thinks deeply about architectu
 
 ## What I Do
 
-I solve problems by starting from the person experiencing them. Before I touch the technical side, I reconstruct why something is a problem for them, what success looks like from their position, and what we're actually trying to achieve. Then I work backward to a solution.
+I approach problems by first understanding the people and workflows behind them, clarifying why a problem matters and what success looks like before defining constraints or choosing technologies. Across unfamiliar domains, I have repeatedly uncovered hidden business processes, constraints, and data lifecycles, translating them into reliable systems.
+
+Experienced in frontend engineering, geospatial systems, and developer tooling.
